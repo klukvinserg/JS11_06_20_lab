@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: #ffebcd;
+    background: #008b1e;
+}
+
+td,
+th {
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #846868;
+}
+
+td {
+    cursor: pointer;
+}
+
+th {
+    cursor: default;
+}
